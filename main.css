@@ -1,0 +1,82 @@
+html {
+    background: url("yellowstone.jpg") no-repeat fixed;
+    background-size: 1550px 850px;
+}
+
+.style {
+    opacity: 0.75%;
+    color: red;
+}
+
+#Welcome {
+    text-align: center;
+    color: purple;
+    font-family: Chiller;
+	font-size: 650%;
+}
+
+#searchbar {
+    text-align: center;
+    color: blue;
+    font-family: Chiller;
+    position: relative;
+	font-size: 350%;
+}
+
+#searchbutton {
+    align-content: center;
+    font-size: 90%;
+    float:right;
+    margin-right: 30%;
+    font-family: Chiller;
+    position: relative;
+}
+
+
+#searchtxtbx {
+    height: 30px;
+    width: 35%;
+    margin-left: 30%;
+    opacity: 0.91;
+    border: none;
+    align-content: center;
+    font-size: large;
+    font-family: Chiller;
+    position: relative;
+}
+
+
+
+.todostyle {
+    color: red;
+    font-family: Chiller;
+    font-size: larger;
+    text-align: left;
+    position: relative;
+}
+
+.uibutton {
+    font-family: Chiller;
+    font-style: italic;
+    font-size: 80%;
+    margin-right: 80%;
+    opacity: 0.91;
+}
+
+
+#msgtxtbx {
+    font-family: Chiller;
+    height: 30px;
+    width: 20%;
+    opacity: 0.98;
+    align-content: center;
+    font-size: smaller;
+    margin-top: 1px;
+}
+
+#create {
+    font-size: 80%;
+    margin-left: 8px;
+    padding-top: 5px;
+	font-family: Chiller;
+}
